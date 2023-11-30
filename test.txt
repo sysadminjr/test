@@ -2,3 +2,5 @@ esto solo e suna prueba de git
  en esta prueba se enviara el primer commit
   esto es una prueba de agregar una nueva linea
   se agrega otra linea de prueba
+  otra prueba de linea para commit
+  esta es otra igual
